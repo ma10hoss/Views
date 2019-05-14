@@ -10,9 +10,9 @@
             android:id="@+id/categoryImage"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toBottomOf="parent" android:scaleType="centerCrop"
-            app:layout_constraintVertical_bias="0.2" android:layout_marginTop="8dp" android:layout_marginBottom="8dp"
+            app:layout_constraintVertical_bias="0.428" android:layout_marginTop="8dp" android:layout_marginBottom="8dp"
             app:layout_constraintEnd_toEndOf="parent"
-    />
+            app:layout_constraintHorizontal_bias="1.0"/>
     <TextView
             android:text="HATS"
             android:layout_width="wrap_content"
