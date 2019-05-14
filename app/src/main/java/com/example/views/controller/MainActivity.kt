@@ -1,7 +1,8 @@
-package com.example.views
+package com.example.views.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.views.R
 
 class MainActivity : AppCompatActivity() {
 
